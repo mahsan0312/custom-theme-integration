@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+# custom-theme-integration
+Custom theme integration and usage for practice.
