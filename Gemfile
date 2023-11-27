@@ -11,13 +11,9 @@ gem "jbuilder"
 gem "redis", "~> 4.0"
 gem "tzinfo-data", platforms: %i[ mingw mswin x64_mingw jruby ]
 gem "bootsnap", require: false
-gem 'therubyracer'
-gem 'less-rails-bootstrap'
 gem "font-awesome-rails"
 gem 'jquery-easing-rails'
 gem 'tilt', '1.4.1'  # Replace '1.4.1' with a version that works for your application
-gem 'less-rails', '~> 3.0'
-gem 'sprockets', '~> 4.0'
 
 group :development, :test do
   gem "debug", platforms: %i[ mri mingw x64_mingw ]
